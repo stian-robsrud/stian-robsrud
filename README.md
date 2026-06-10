@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Stian 👋
 
-<!--
-**stian-robsrud/stian-robsrud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Information Technology & Economics student at the University of Bergen,
+passionate about building practical solutions and learning new technologies.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages:** Java · Python · SQL
+- **Currently learning:** React · Spring Boot
+- **Tools:** Git · GitHub · Excel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Experience
+- Teaching Assistant @ University of Bergen — mentoring students in Python
+- Teaching Assistant @ Oslo Municipality — leadership & communication
+
+## 🚀 Projects
+- 🧠 **Wordle Solver** — AI algorithm using entropy and probability to 
+  solve Wordle in minimal guesses (Python)
+- 🐍 **Snake** — Classic Snake game built from scratch in Python
+- 💣 **Minesweeper** — Classic game built from scratch in Java
+- 💰 **Budget App** — Smart personal finance app for young people, 
+  with AI-powered spending insights *(in progress)*
+
+## 📫 Contact
+- Email: stianrobsrud@gmail.com
+- Phone: 45699633
+- Location: Bergen, Norway
