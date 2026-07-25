@@ -12,13 +12,12 @@ passionate about building practical solutions and learning new technologies.
 - Teaching Assistant @ University of Bergen — mentoring students in Python
 - Teaching Assistant @ Oslo Municipality — leadership & communication
 
-## 🚀 Projects
+## 🚀 School Projects (UIB)
+- 🐍 **Snake** — Classic Snake game built in Python
+- 🟥 **Tetris** - Classic Tetsis game built in Java
+- 💣 **Minesweeper** — Classic game built in Java
 - 🧠 **Wordle Solver** — AI algorithm using entropy and probability to 
   solve Wordle in minimal guesses (Python)
-- 🐍 **Snake** — Classic Snake game built from scratch in Python
-- 💣 **Minesweeper** — Classic game built from scratch in Java
-- 💰 **Budget App** — Smart personal finance app for young people, 
-  with AI-powered spending insights *(in progress)*
 
 ## 📫 Contact
 - Email: stianrobsrud@gmail.com
