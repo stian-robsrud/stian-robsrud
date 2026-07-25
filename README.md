@@ -23,5 +23,4 @@ passionate about building practical solutions and learning new technologies.
 
 ## 📫 Contact
 - Email: stianrobsrud@gmail.com
-- Phone: 45699633
 - Location: Bergen/Oslo, Norway
