@@ -16,7 +16,8 @@ passionate about building practical solutions and learning new technologies.
 - 🟥 **Tetris** - Classic Tetsis game built in Java
 - 💣 **Minesweeper** — Classic game built in Java
 - 🧠 **Wordle Solver** — AI algorithm using entropy and probability to 
-  solve Wordle in minimal guesses (Python)
+  solve Wordle in minimal guesses in Java
+- 🚲 **Bergen Bysykkel App** - Simple database app to manage bike fleet (Python & SQL)
 
 ## 📫 Contact
 - Email: stianrobsrud@gmail.com
