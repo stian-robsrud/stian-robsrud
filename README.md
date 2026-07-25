@@ -8,7 +8,7 @@ passionate about building practical solutions and learning new technologies.
 - **Tools:** Git · GitHub · Excel
 
 ## 🎓 Experience
-- Teaching Assistant @ University of Bergen — mentoring students in Python
+- School Assistant @ University of Bergen — mentoring students in Python
 - Teaching Assistant @ Oslo Municipality — leadership & communication
 
 ## 🚀 School Projects (UIB)
