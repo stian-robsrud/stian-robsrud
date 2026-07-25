@@ -5,7 +5,6 @@ passionate about building practical solutions and learning new technologies.
 
 ## 🛠️ Tech Stack
 - **Languages:** Java · Python · SQL
-- **Currently learning:** React · Spring Boot
 - **Tools:** Git · GitHub · Excel
 
 ## 🎓 Experience
